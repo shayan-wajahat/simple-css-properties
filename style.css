@@ -1,0 +1,20 @@
+* {
+  font-family: sans-serif;
+}
+.containerOne {
+  padding: 20px;
+  background-color: red;
+  color: yellow;
+}
+.containerTwo {
+  padding: 20px;
+  background-color: wheat;
+  color: black;
+}
+.containerThree{
+    background-color: aqua;
+    height: 1000px;
+    background-image: url(./img/image-car.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
